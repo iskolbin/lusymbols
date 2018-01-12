@@ -8,3 +8,4 @@ Included files are:
 * `box` - box diagrams for simple TUI, see example at `tests/tui.lua`
 * `cards` - deck of cards
 * `chess` - chess figures
+* `domino` - dominos
