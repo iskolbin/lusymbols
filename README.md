@@ -10,3 +10,4 @@ Included files are:
 * `chess` - chess figures
 * `domino` - domino tiles
 * `draughts` - draught pieces
+* `dice` - game die
