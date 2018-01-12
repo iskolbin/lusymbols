@@ -11,3 +11,4 @@ Included files are:
 * `domino` - domino tiles
 * `draughts` - draught pieces
 * `dice` - game die
+* `go` - go circles
