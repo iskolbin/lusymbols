@@ -10,5 +10,5 @@ return {
 	BLACK_ROOK = '♜',
 	BLACK_BISHOP = '♝',
 	BLACK_KNIGHT = '♞',
-	BLACK_PAWN = '♞',
+	BLACK_PAWN = '♟',
 }
